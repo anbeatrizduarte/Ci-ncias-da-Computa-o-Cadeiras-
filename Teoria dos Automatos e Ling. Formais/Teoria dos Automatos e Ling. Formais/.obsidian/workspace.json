@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e6e9f10fa1d40a8",
+        "id": "f3600f1579d2a5fb",
         "type": "tabs",
         "children": [
           {
-            "id": "27f29ae744b51498",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              },
-              "icon": "lucide-file",
-              "title": "Untitled Diagram.svg"
-            }
-          },
-          {
-            "id": "8222c69c1e0a7c69",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-03 19.37.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-03 19.37.29.excalidraw"
-            }
-          },
-          {
-            "id": "91a545db7f97bae8",
+            "id": "6cc6d4517af0f293",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,8 +21,7 @@
               "title": "Introdução"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,24 +181,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91a545db7f97bae8",
+  "active": "f2e884c05311f9c0",
   "lastOpenFiles": [
-    "Pasted image 20250903195101.png",
-    "Pasted image 20250903195054.png",
+    "Sem título.canvas",
+    "Anotações/Introdução.md",
+    "Anotações/Untitled Diagram.svg",
+    "Anotações/Autômatos Finitos.md",
+    "Diagramas/Exemplo-AFD.md",
+    "Pasted image 20250904132148.png",
+    "Pasted image 20250904132121.png",
+    "Pasted image 20250904132114.png",
+    "Pasted image 20250904132108.png",
+    "Imagens/Pasted image 20250903195101.png",
+    "Imagens/Pasted image 20250903195054.png",
     "Excalidraw/Drawing 2025-09-03 19.37.35.excalidraw.md",
     "Excalidraw/Drawing 2025-09-03 19.37.29.excalidraw.md",
     "Diagramas/Drawing 2025-09-03 19.38.57.excalidraw.md",
     "Diagramas/Untitled Diagram.svg",
-    "Anotações/Introdução.md",
     "Anotações",
     "Diagramas",
-    "Sem título.canvas",
     "Untitled Diagram.svg",
     "Excalidraw",
     "Sem título.base",
-    "Sem título.md",
     "Imagens/Pasted image 20250903193107.png",
-    "Imagens/Pasted image 20250903191847.png",
     "Imagens"
   ]
 }

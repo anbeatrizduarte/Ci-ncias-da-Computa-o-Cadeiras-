@@ -40,6 +40,7 @@ Uma string ou palavra é uma sequência finita de símbolos escolhidos de ∑. U
 
 Já o comprimento de uma string x é denotado por |x|, e é igual ao número de caracteres (não ε) na string.
 
+
 ---
 ### Hierachy de Chomsky
 
@@ -57,3 +58,9 @@ Ela possui 4 níveis, sendo que os dois últimos níveis são amplamente utiliza
 ![[Pasted image 20250903195101.png]]
 
 
+---
+
+### Autômatos Finitos
+
+
+[](obsidian://open?vault=Teoria%20dos%20Automatos%20e%20Ling.%20Formais&file=Sem%20t%C3%ADtulo.canvas)
