@@ -7,7 +7,7 @@ Apesar de Python já conter conceitos de listas e dicionários, é importante en
 
 Nem todo algoritmo ou estrutura é igualmente rápido, por conta disso se torna necessário analisar usando a <span style="font-weight:bold; color:rgb(188, 126, 236)">complexidade de tempo</span> (quantidade de passos) e a <span style="font-weight:bold; color:rgb(188, 126, 236)">complexidade de espaço</span> (memória usada).
 
-Para isso usamos a notação Big-O (ou Big-O Notation) que serve para comparar soluções e escolher a mais adequada para o problema.
+Para isso usamos a notação Big-O (ou Big-O Notation) que serve para comparar soluções e escolher a mais adequada para o problema. 
 
 
 ---

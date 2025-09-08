@@ -64,7 +64,9 @@ public static void hanoi(int n, char origem, char auxiliar, char destino) {
 }
 ```
 
+A lógica utilizada para resolver este problema em específico é semelhante a <mark style="background: #D2B3FFA6;">estratégia de demonstração por indução</mark>, onde é necessário uma base de indução e provar para um K qualquer e um K+1. Neste caso, como é de maneira recursiva, seria para um <span style="color:rgb(188, 126, 236)">N qualquer</span> e um <span style="color:rgb(188, 126, 236)">N - 1</span>.
 
+![[Pasted image 20250908131509.png|400]]
 
 
 
