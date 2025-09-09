@@ -103,5 +103,5 @@ Pode ocorrer com entradas "favoráveis". Além disso, não é suficiente para ga
 
 Ex.: na **busca linear**, se o elemento está na primeira posição, o tempo é constante => `Ω(1)`.
 
-<img src = "Estrutura de Dados/Imagens/Pasted image 20250902171303.png">
+<img src = "[Estrutura de Dados/Imagens/Pasted image 20250902171303.png](https://github.com/anbeatrizduarte/Ci-ncias-da-Computa-o-Cadeiras-/blob/834d1654944abaa02ce7bb0bcd07ecae11861da8/Estrutura%20de%20Dados/Imagens/Pasted%20image%2020250902171303.png)">
 
