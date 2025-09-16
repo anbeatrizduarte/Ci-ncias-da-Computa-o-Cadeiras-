@@ -103,6 +103,3 @@ Pode ocorrer com entradas "favoráveis". Além disso, não é suficiente para ga
 
 Ex.: na **busca linear**, se o elemento está na primeira posição, o tempo é constante => `Ω(1)`.
 
-
-
-

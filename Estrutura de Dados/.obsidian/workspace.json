@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6657a5dcb5c72f90",
+        "id": "c57a00702213c5a2",
         "type": "tabs",
         "children": [
           {
-            "id": "f806bb43b2dfaec3",
+            "id": "16ed4ae29d295b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Complexidade de Algoritmos"
             }
-          },
-          {
-            "id": "f30db386f30bfeef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anotações/Notação Assintótica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notação Assintótica"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,15 +181,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f30db386f30bfeef",
+  "active": "16ed4ae29d295b06",
   "lastOpenFiles": [
     "Anotações/Complexidade de Algoritmos.md",
+    "Anotações/Notação Assintótica.md",
+    "conflict-files-obsidian-git.md",
+    "Imagens/ChatGPT Image 4 de set. de 2025, 13_07_01.png",
     "Imagens/Exemplo1.png",
     "Desenhos",
     "Desenhos/Exemplo 1.md",
     "Imagens/Pasted_image_20250902171303.png",
     "Anotações/Introdução.md",
-    "Anotações/Notação Assintótica.md",
     "Anotações/Recursividade.md",
     "Sem título.md",
     "Imagens/Pasted image 20250902171514.png",
