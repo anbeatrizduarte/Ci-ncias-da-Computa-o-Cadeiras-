@@ -28,7 +28,7 @@ No começo, antes de ir para o Python, os algortimos serão descritos através d
 
 ##### Exemplos de Algoritmos
 
-![[Pasted image 20250902171303.png]]
+![[Pasted_image_20250902171303.png]]
 ``` java
 package Exer1;
 import java.util.*;

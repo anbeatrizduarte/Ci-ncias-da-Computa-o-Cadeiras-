@@ -1,5 +1,9 @@
 [
   "colored-text",
   "highlightr-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "drawio-obsidian",
+  "obsidian-excalidraw-plugin",
+  "oz-image-plugin",
+  "mousewheel-image-zoom"
 ]
