@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotações/9. Filas (Queues).md",
+                "file": "Anotações/7. Listas lineares em Alocação Sequencial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Filas (Queues)"
+              "title": "7. Listas lineares em Alocação Sequencial"
             }
           }
         ],
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,36 +198,38 @@
   },
   "active": "b11cede6fb8a5428",
   "lastOpenFiles": [
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções Comentadas/Questão 1.png",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções Comentadas/Questao 2.png",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções Comentadas/Questao 3.png",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções Comentadas/Questao 4.png",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções/Q5.java",
+    "Exercícios/Implementação/Lista Lineares 1/Enunciados/EnunciadoQ5.png",
+    "Exercícios/Implementação/Lista Lineares 1/Enunciados/image.png",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções/Q4.java",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções/Q4java",
+    "Exercícios/Implementação/Lista Lineares 1/Enunciados/EnunciadoQ4.png",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções/Q3.java",
+    "Exercícios/Implementação/Lista Lineares 1/Enunciados/EnunciadoQ3.png",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções/Q2.java",
+    "Exercícios/Implementação/Lista Lineares 1/Enunciados/EnunciadoQ2.png",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções Comentadas",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções/Q1.java",
+    "Exercícios/Implementação/Lista Lineares 1/Resoluções",
+    "Exercícios/Implementação/Lista Lineares 1/Enunciados/EnunciadoQ1.png",
+    "Exercícios/Implementação/Lista Lineares 1/Enunciados",
     "Anotações/8. Pilhas (Stack).md",
     "Anotações/9. Filas (Queues).md",
+    "Exercícios/Implementação/Lista Lineares 1/Q1.java",
+    "Exercícios/Implementação/Lista Lineares 1/EnunciadoQ1.png",
     "Filas1.md",
-    "Imagens/Filas1.png",
     "Anotações/4. Notação Assintótica.md",
     "Anotações/5. Listas Lineares.md",
     "Anotações/6. Alocação Sequencial.md",
-    "Imagens/Pilhas1.png",
     "Anotações/7. Listas lineares em Alocação Sequencial.md",
-    "Exercícios/1 Preliminares - Exercícios.pdf",
-    "Exercícios/Exercícios Notação BIG O.pdf",
     "Anotações/3. Complexidade de Algoritmos.md",
     "Anotações/2. Recursividade.md",
     "Anotações/1. Introdução.md",
     "conflict-files-obsidian-git.md",
-    "Imagens/ChatGPT Image 4 de set. de 2025, 13_07_01.png",
-    "Imagens/Exemplo1.png",
-    "Desenhos",
-    "Desenhos/Exemplo 1.md",
-    "Imagens/Pasted_image_20250902171303.png",
-    "Imagens/Pasted image 20250902171514.png",
-    "Imagens/Pasted image 20250902171423.png",
-    "Imagens/Pasted image 20250902171604.png",
-    "Imagens/Pasted image 20250902171721.png",
-    "Imagens",
-    "Exercícios/Exer1/Q5Java.java",
-    "Exercícios/Exer1/Q4Java.java",
-    "Exercícios/Exer1/Q3Java.java",
-    "Exercícios/Exer1/Q2Java.java",
-    "Exercícios/Exer1/Q1Java.java",
-    "Exercícios/Exer1"
+    "Desenhos/Exemplo 1.md"
   ]
 }
