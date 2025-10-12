@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "5. Mapeamento do Modelo ER para o Relacional"
             }
+          },
+          {
+            "id": "6045139ea2a93d0c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,20 +220,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "528b27d04f336c9a",
+  "active": "6045139ea2a93d0c",
   "lastOpenFiles": [
-    "Exercícios/NPC1/Revisão BD1 - MER para Relacional (Exercícios).pdf",
-    "Pasted image 20251011201203.png",
     "MERR7.md",
-    "Imagens/MERR7.png",
+    "Exercícios/NPC1/Revisão BD1 - Normalização (Exercícios).pdf",
+    "6. Normalização.md",
+    "Pasted Image 20251011195829_326.png",
+    "Pasted image 20251011201203.png",
+    "Pasted Image 20251011200537_041.png",
     "Pasted Image 20251011201138_597.png",
     "5. Mapeamento do Modelo ER para o Relacional.md",
+    "Exercícios/NPC1/Revisão BD1 - MER para Relacional (Exercícios).pdf",
+    "Imagens/MERR7.png",
     "3. Modelo Entidade-Relacionamento.md",
     "4. Modelo Relaional.md",
     "Imagens/MERR6.png",
-    "Pasted Image 20251011200537_041.png",
     "Imagens/MERR5.png",
-    "Pasted Image 20251011195829_326.png",
     "Imagens/MERR4.png",
     "Pasted Image 20251011194951_808.png",
     "Imagens/MERR3.png",
