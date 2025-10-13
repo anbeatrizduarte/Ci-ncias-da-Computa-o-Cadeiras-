@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotações/7. Listas lineares em Alocação Sequencial.md",
+                "file": "Anotações/4. Notação Assintótica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Listas lineares em Alocação Sequencial"
+              "title": "4. Notação Assintótica"
             }
           }
         ],
@@ -198,6 +198,9 @@
   },
   "active": "b11cede6fb8a5428",
   "lastOpenFiles": [
+    "Exercícios/Implementação/Listas Encadeadas 1/Enunciado/Exercícios de Implementação - Listas Encadeadas.pdf",
+    "Exercícios/Implementação/Listas Encadeadas 1/Enunciado",
+    "Anotações/7. Listas lineares em Alocação Sequencial.md",
     "Exercícios/Implementação/Lista Lineares 1/Resoluções Comentadas/Questão 1.png",
     "Exercícios/Implementação/Lista Lineares 1/Resoluções Comentadas/Questao 2.png",
     "Exercícios/Implementação/Lista Lineares 1/Resoluções Comentadas/Questao 3.png",
@@ -219,13 +222,10 @@
     "Exercícios/Implementação/Lista Lineares 1/Enunciados",
     "Anotações/8. Pilhas (Stack).md",
     "Anotações/9. Filas (Queues).md",
-    "Exercícios/Implementação/Lista Lineares 1/Q1.java",
-    "Exercícios/Implementação/Lista Lineares 1/EnunciadoQ1.png",
     "Filas1.md",
     "Anotações/4. Notação Assintótica.md",
     "Anotações/5. Listas Lineares.md",
     "Anotações/6. Alocação Sequencial.md",
-    "Anotações/7. Listas lineares em Alocação Sequencial.md",
     "Anotações/3. Complexidade de Algoritmos.md",
     "Anotações/2. Recursividade.md",
     "Anotações/1. Introdução.md",

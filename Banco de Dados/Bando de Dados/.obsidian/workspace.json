@@ -41,26 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Mapeamento do Modelo ER para o Relacional.md",
+                "file": "6. Normalização.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Mapeamento do Modelo ER para o Relacional"
-            }
-          },
-          {
-            "id": "6045139ea2a93d0c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "6. Normalização"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,8 +210,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6045139ea2a93d0c",
+  "active": "42682a82e3c08b99",
   "lastOpenFiles": [
+    "4. Modelo Relaional.md",
+    "3. Modelo Entidade-Relacionamento.md",
+    "2. Modelos de Banco.md",
+    "5. Mapeamento do Modelo ER para o Relacional.md",
+    "Exercícios/NPC1/Revisão BD1 TEORIA - Modelo ER (Exercícios).pdf",
     "MERR7.md",
     "Exercícios/NPC1/Revisão BD1 - Normalização (Exercícios).pdf",
     "6. Normalização.md",
@@ -229,11 +224,8 @@
     "Pasted image 20251011201203.png",
     "Pasted Image 20251011200537_041.png",
     "Pasted Image 20251011201138_597.png",
-    "5. Mapeamento do Modelo ER para o Relacional.md",
     "Exercícios/NPC1/Revisão BD1 - MER para Relacional (Exercícios).pdf",
     "Imagens/MERR7.png",
-    "3. Modelo Entidade-Relacionamento.md",
-    "4. Modelo Relaional.md",
     "Imagens/MERR6.png",
     "Imagens/MERR5.png",
     "Imagens/MERR4.png",
@@ -241,12 +233,10 @@
     "Imagens/MERR3.png",
     "Exercícios/NPC1/Documento sem título (1).pdf",
     "Exercícios/NPC1/Documento sem título (2).pdf",
-    "Exercícios/NPC1/Revisão BD1 TEORIA - Modelo ER (Exercícios).pdf",
     "Exercícios/NPC1/Revisão BD1 IMPLEMENTAÇÃO - Modelo ER (Exercícios).pdf",
     "Exercícios/NPC1",
     "Exercícios",
     "Excalidraw/Chaves Primárias.md",
-    "2. Modelos de Banco.md",
     "Excalidraw/Drawing 2025-09-04 17.48.22.excalidraw.md",
     "Excalidraw/Drawing 2025-09-04 17.57.04.excalidraw.md",
     "Imagens",
