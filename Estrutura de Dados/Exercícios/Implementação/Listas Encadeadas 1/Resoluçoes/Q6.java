@@ -11,11 +11,11 @@ class Node {
 }
 
 public class Q6 {
-    public static boolean encontrarElemento(Node head, int valor) {
+    public static boolean encontrarElemento(Node head, int alvo) {
         Node atual = head;
 
         while (atual != null) {
-            if (atual.valor == valor) {
+            if (atual.valor == alvo) {
                 return true;
             }
         }

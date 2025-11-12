@@ -11,10 +11,14 @@
             "id": "2bb4cf9bd6552e8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Anotações/4. Linguagens e Gramáticas Livres de Contexto (CFLs e CFGs).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "4. Linguagens e Gramáticas Livres de Contexto (CFLs e CFGs)"
             }
           }
         ]
@@ -162,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +186,7 @@
   "lastOpenFiles": [
     "Anotações/3. Expressões Regulares e Autômatos Finitos.md",
     "Anotações/2. Autômatos Finitos.md",
+    "Anotações/4. Linguagens e Gramáticas Livres de Contexto (CFLs e CFGs).md",
     "Imagens/Slide3.png",
     "Excalidraw/Drawing 2025-09-20 16.40.17.excalidraw.md",
     "Drawing 2025-09-20 15.49.32.excalidraw.md",
