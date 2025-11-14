@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52064a8da7284c3d",
@@ -211,8 +210,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0a9ca755e3221fff",
+  "active": "a46b885d57a717cf",
   "lastOpenFiles": [
+    "Exercícios/ED - Exercícios Notações (Árvores).pdf",
     "Anotações/9. Filas (Queues).md",
     "Anotações/10. Árvores.md",
     "Anotações/4. Notação Assintótica.md",
