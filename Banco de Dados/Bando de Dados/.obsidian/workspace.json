@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "49e373978e5dde0a",
+        "id": "98faeed2d515c8ab",
         "type": "tabs",
         "children": [
           {
-            "id": "5dea8e4155e140ec",
+            "id": "635c740a23ca7216",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Modelo Entidade-Relacionamento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Modelo Entidade-Relacionamento"
-            }
-          },
-          {
-            "id": "4a77a14439cb0db2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Mapeamento do Modelo ER para o Relacional.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Mapeamento do Modelo ER para o Relacional"
-            }
-          },
-          {
-            "id": "42682a82e3c08b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Normalização.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Normalização"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6b90ee8005f92d6d",
@@ -171,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelos de Banco.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Modelos de Banco"
+              "title": "Sumário"
             }
           },
           {
@@ -210,39 +177,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42682a82e3c08b99",
+  "active": "635c740a23ca7216",
   "lastOpenFiles": [
-    "4. Modelo Relaional.md",
+    "8. Cálculo Relacional.md",
+    "7. Álgebra Relacional.md",
+    "Exercícios/NPC2/Cálculo Relacion/Exercícios Slides.md",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Exercícios GPT.md",
+    "Pasted image 20251126014131.png",
+    "Imagens/Modelo.png",
     "3. Modelo Entidade-Relacionamento.md",
+    "4. Modelo Relaional.md",
+    "Exercícios/NPC2/Cálculo Relacion",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Slides/Slide10e11.md",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Slides/Seleção.pdf",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Slides/Seleção.png",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Slides/Seleção_tmp.html",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Slides/Seleção.md",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Slides/Seleção.scss",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Slides/Seleção.css",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Slides",
+    "Exercícios/NPC2/Algebra Relacional - Implementação/Nova pasta",
+    "Exercícios/NPC2/Algebra Relacional - Implementação",
+    "Exercícios/NPC2/Nova pasta",
+    "Exercícios/NPC2",
+    "6. Normalização.md",
     "2. Modelos de Banco.md",
     "5. Mapeamento do Modelo ER para o Relacional.md",
-    "Exercícios/NPC1/Revisão BD1 TEORIA - Modelo ER (Exercícios).pdf",
     "MERR7.md",
-    "Exercícios/NPC1/Revisão BD1 - Normalização (Exercícios).pdf",
-    "6. Normalização.md",
     "Pasted Image 20251011195829_326.png",
     "Pasted image 20251011201203.png",
     "Pasted Image 20251011200537_041.png",
     "Pasted Image 20251011201138_597.png",
-    "Exercícios/NPC1/Revisão BD1 - MER para Relacional (Exercícios).pdf",
     "Imagens/MERR7.png",
     "Imagens/MERR6.png",
     "Imagens/MERR5.png",
-    "Imagens/MERR4.png",
-    "Pasted Image 20251011194951_808.png",
-    "Imagens/MERR3.png",
-    "Exercícios/NPC1/Documento sem título (1).pdf",
-    "Exercícios/NPC1/Documento sem título (2).pdf",
-    "Exercícios/NPC1/Revisão BD1 IMPLEMENTAÇÃO - Modelo ER (Exercícios).pdf",
-    "Exercícios/NPC1",
-    "Exercícios",
     "Excalidraw/Chaves Primárias.md",
     "Excalidraw/Drawing 2025-09-04 17.48.22.excalidraw.md",
     "Excalidraw/Drawing 2025-09-04 17.57.04.excalidraw.md",
-    "Imagens",
     "1. Introdução.md",
     "2..md",
-    "Excalidraw/Drawing 2025-09-04 17.30.27.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2025-09-04 17.30.27.excalidraw.md"
   ]
 }
